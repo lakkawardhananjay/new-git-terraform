@@ -1,5 +1,5 @@
 provider "google" {
-  project = "my-project-540-405910"
+  project = "silken-forest-418413"
 }
 
 resource "google_storage_bucket" "my_bucket" {
