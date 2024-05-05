@@ -1,7 +1,9 @@
 # CI/CD Pipeline using GitHub Actions and Terraform
 
 ## Overview
-This project implements a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions and Terraform. The pipeline automates the testing, building, and deployment of infrastructure as code (IaC) managed by Terraform.
+This project implements a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions and Terraform. The pipeline automates the testing, building, and deployment of infrastructure as code (IaC) managed by 
+ Terraform.
+ 
 <img src="https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/aa761225-ead5-4c12-9d86-37affe97e44f" width="300" height="300"> <img src="https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/3d5506ef-8a0e-49c7-b950-c73e983fd9f5" width="300" height="300"> <img src="https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/172b2359-0453-4ef0-bbb6-d51315664d58" width="300" height="300">
 - Automated Testing: GitHub Actions triggers automated tests upon every code push, ensuring code quality and reliability.
 - Infrastructure Provisioning: Terraform is used to define and provision infrastructure resources, such as compute instances, networks, and storage.
