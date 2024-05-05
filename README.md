@@ -2,9 +2,8 @@
 
 ## Overview
 This project implements a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions and Terraform. The pipeline automates the testing, building, and deployment of infrastructure as code (IaC) managed by Terraform.
-![image](https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/31180284-d3a0-495f-aa2e-aadb916d4166)
-![image](https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/3d5506ef-8a0e-49c7-b950-c73e983fd9f5)
-![image](https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/172b2359-0453-4ef0-bbb6-d51315664d58)
+![image](https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/31180284-d3a0-495f-aa2e-aadb916d4166) ![image](https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/3d5506ef-8a0e-49c7-b950-c73e983fd9f5) ![image](https://github.com/lakkawardhananjay/new-git-terraform/assets/92675267/172b2359-0453-4ef0-bbb6-d51315664d58)
+
 ## Features
 - Automated Testing: GitHub Actions triggers automated tests upon every code push, ensuring code quality and reliability.
 - Infrastructure Provisioning: Terraform is used to define and provision infrastructure resources, such as compute instances, networks, and storage.
@@ -45,4 +44,3 @@ Contributions to improve and enhance the CI/CD pipeline are welcome. Please fork
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
